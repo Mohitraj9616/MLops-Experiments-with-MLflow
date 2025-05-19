@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/647305993027871202/b0eb6c3adb4341b5b6b780ee6a706eb4/artifacts
+end_time: 1747689947123
+entry_point_name: ''
+experiment_id: '647305993027871202'
+lifecycle_stage: active
+run_id: b0eb6c3adb4341b5b6b780ee6a706eb4
+run_name: exultant-duck-332
+run_uuid: b0eb6c3adb4341b5b6b780ee6a706eb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747689942454
+status: 3
+tags: []
+user_id: mohitraj16
