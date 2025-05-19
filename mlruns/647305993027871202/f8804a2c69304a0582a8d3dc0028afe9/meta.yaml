@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/647305993027871202/f8804a2c69304a0582a8d3dc0028afe9/artifacts
+end_time: 1747686955589
+entry_point_name: ''
+experiment_id: '647305993027871202'
+lifecycle_stage: active
+run_id: f8804a2c69304a0582a8d3dc0028afe9
+run_name: sneaky-elk-761
+run_uuid: f8804a2c69304a0582a8d3dc0028afe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747686953184
+status: 3
+tags: []
+user_id: mohitraj16
