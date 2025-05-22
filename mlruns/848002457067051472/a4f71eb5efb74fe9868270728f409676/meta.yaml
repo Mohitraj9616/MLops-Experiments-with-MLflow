@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohitraj16/Mlops-tutorial/MLops-Experiments-with-MLflow/mlruns/848002457067051472/a4f71eb5efb74fe9868270728f409676/artifacts
+end_time: 1747754755559
+entry_point_name: ''
+experiment_id: '848002457067051472'
+lifecycle_stage: active
+run_id: a4f71eb5efb74fe9868270728f409676
+run_name: skittish-doe-315
+run_uuid: a4f71eb5efb74fe9868270728f409676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754755555
+status: 3
+tags: []
+user_id: mohitraj16

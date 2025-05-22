@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohitraj16/Mlops-tutorial/MLops-Experiments-with-MLflow/mlruns/848002457067051472/6e7e715e60b249eba93935732ffaecfc/artifacts
+end_time: 1747754755602
+entry_point_name: ''
+experiment_id: '848002457067051472'
+lifecycle_stage: active
+run_id: 6e7e715e60b249eba93935732ffaecfc
+run_name: indecisive-goose-227
+run_uuid: 6e7e715e60b249eba93935732ffaecfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754755598
+status: 3
+tags: []
+user_id: mohitraj16

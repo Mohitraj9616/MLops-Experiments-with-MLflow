@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohitraj16/Mlops-tutorial/MLops-Experiments-with-MLflow/mlruns/848002457067051472/947de7fc96d1400ea207dcad3f883c83/artifacts
+end_time: 1747754755608
+entry_point_name: ''
+experiment_id: '848002457067051472'
+lifecycle_stage: active
+run_id: 947de7fc96d1400ea207dcad3f883c83
+run_name: nebulous-stoat-238
+run_uuid: 947de7fc96d1400ea207dcad3f883c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754755603
+status: 3
+tags: []
+user_id: mohitraj16

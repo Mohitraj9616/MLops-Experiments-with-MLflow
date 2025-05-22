@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohitraj16/Mlops-tutorial/MLops-Experiments-with-MLflow/mlruns/848002457067051472/5184b56ced114566bd18b7c89f97752a/artifacts
+end_time: 1747754548082
+entry_point_name: ''
+experiment_id: '848002457067051472'
+lifecycle_stage: active
+run_id: 5184b56ced114566bd18b7c89f97752a
+run_name: casual-crane-634
+run_uuid: 5184b56ced114566bd18b7c89f97752a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754543751
+status: 3
+tags: []
+user_id: mohitraj16

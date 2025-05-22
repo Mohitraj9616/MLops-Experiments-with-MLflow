@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohitraj16/Mlops-tutorial/MLops-Experiments-with-MLflow/mlruns/848002457067051472/9178ac28d5b04e1ab5474482a920bead/artifacts
+end_time: 1747754755548
+entry_point_name: ''
+experiment_id: '848002457067051472'
+lifecycle_stage: active
+run_id: 9178ac28d5b04e1ab5474482a920bead
+run_name: marvelous-sponge-896
+run_uuid: 9178ac28d5b04e1ab5474482a920bead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754755534
+status: 3
+tags: []
+user_id: mohitraj16

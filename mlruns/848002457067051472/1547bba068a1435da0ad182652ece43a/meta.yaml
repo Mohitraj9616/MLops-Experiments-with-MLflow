@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohitraj16/Mlops-tutorial/MLops-Experiments-with-MLflow/mlruns/848002457067051472/1547bba068a1435da0ad182652ece43a/artifacts
+end_time: 1747754755597
+entry_point_name: ''
+experiment_id: '848002457067051472'
+lifecycle_stage: active
+run_id: 1547bba068a1435da0ad182652ece43a
+run_name: whimsical-croc-977
+run_uuid: 1547bba068a1435da0ad182652ece43a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754755592
+status: 3
+tags: []
+user_id: mohitraj16

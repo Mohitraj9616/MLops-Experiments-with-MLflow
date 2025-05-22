@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohitraj16/Mlops-tutorial/MLops-Experiments-with-MLflow/mlruns/848002457067051472/fe525609722448c09a12c9781dadb65a/artifacts
+end_time: 1747754757747
+entry_point_name: ''
+experiment_id: '848002457067051472'
+lifecycle_stage: active
+run_id: fe525609722448c09a12c9781dadb65a
+run_name: sneaky-grub-50
+run_uuid: fe525609722448c09a12c9781dadb65a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754753560
+status: 3
+tags: []
+user_id: mohitraj16

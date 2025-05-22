@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohitraj16/Mlops-tutorial/MLops-Experiments-with-MLflow/mlruns/848002457067051472/edc4398ffa9a43a2b526a5991cb414f9/artifacts
+end_time: 1747754755580
+entry_point_name: ''
+experiment_id: '848002457067051472'
+lifecycle_stage: active
+run_id: edc4398ffa9a43a2b526a5991cb414f9
+run_name: grandiose-elk-622
+run_uuid: edc4398ffa9a43a2b526a5991cb414f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754755576
+status: 3
+tags: []
+user_id: mohitraj16

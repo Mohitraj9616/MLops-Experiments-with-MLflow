@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohitraj16/Mlops-tutorial/MLops-Experiments-with-MLflow/mlruns/848002457067051472/d66b33af91524cefb7b4c475802b0dcb/artifacts
+end_time: 1747754755564
+entry_point_name: ''
+experiment_id: '848002457067051472'
+lifecycle_stage: active
+run_id: d66b33af91524cefb7b4c475802b0dcb
+run_name: dapper-sow-144
+run_uuid: d66b33af91524cefb7b4c475802b0dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754755560
+status: 3
+tags: []
+user_id: mohitraj16

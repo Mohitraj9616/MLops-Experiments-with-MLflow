@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohitraj16/Mlops-tutorial/MLops-Experiments-with-MLflow/mlruns/848002457067051472/1dba2efae232423dac230e332d0bcecb/artifacts
+end_time: 1747754755576
+entry_point_name: ''
+experiment_id: '848002457067051472'
+lifecycle_stage: active
+run_id: 1dba2efae232423dac230e332d0bcecb
+run_name: receptive-panda-577
+run_uuid: 1dba2efae232423dac230e332d0bcecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754755570
+status: 3
+tags: []
+user_id: mohitraj16
